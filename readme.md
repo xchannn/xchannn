@@ -3,26 +3,7 @@
   <span class="typing-animation">Hi 👋, I'm Christian Kim Jumawan</span>
 </h1>
 
-<style>
-  .typing-animation {
-    font-size: 36px;
-    font-family: monospace;
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 3px solid green;
-    width: 0;
-    animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
-  }
 
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  @keyframes blink-caret {
-    50% { border-color: transparent; }
-  }
-</style>
 
 <h3 align="center">Aspiring Fullstack Web Developer</h3>
 
