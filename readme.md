@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Kim Jumawan</h1>
-<h3 align="center">A passionate web developer from Philippines</h3>
+<h3 align="center">Aspiring Fullstack Web Developer</h3>
 
 
 ## 🌐 Socials:
