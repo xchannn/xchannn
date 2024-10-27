@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian Kim Jumawan</h1>
+
 <h1 align="center" style="color: green;">
   <span class="typing-animation">Hi 👋, I'm Christian Kim Jumawan</span>
 </h1>
