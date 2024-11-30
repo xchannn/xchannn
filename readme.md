@@ -1,5 +1,6 @@
 
 <h2 align="center" style="color: green;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79E59&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Christian+Kim+Jumawan" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79E59&width=435&lines=Aspiring+Fullstack+Developer" alt="Typing SVG" /></a>
 </h2>
 
 ## 🌐 Socials:
